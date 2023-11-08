@@ -1,5 +1,6 @@
 # v-datatable
 
+
 ## Project setup
 ```
 npm install
